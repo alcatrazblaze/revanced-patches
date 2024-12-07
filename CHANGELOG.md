@@ -1,3 +1,12 @@
+## [5.2.4](https://github.com/alcatrazblaze/revanced-patches/compare/v5.2.3...v5.2.4) (2024-12-07)
+
+
+### Bug Fixes
+
+* **Sync for Reddit:** Fix patches by using correct extension name ([030093e](https://github.com/alcatrazblaze/revanced-patches/commit/030093e913aab3fab43935eedbaeba0f6c0491bb))
+* **Twitter:** Merge correct extension by depending on correct extension patch ([8281cf6](https://github.com/alcatrazblaze/revanced-patches/commit/8281cf6a3eead8cc25a277371e0b0ab2be982497))
+* **YouTube - Spoof video streams:** Enable opus codec by updating iOS client version ([#4063](https://github.com/alcatrazblaze/revanced-patches/issues/4063)) ([0af156f](https://github.com/alcatrazblaze/revanced-patches/commit/0af156f18972c5f089af4bb69824968d2a47d18f))
+
 ## [5.2.4-dev.3](https://github.com/ReVanced/revanced-patches/compare/v5.2.4-dev.2...v5.2.4-dev.3) (2024-12-07)
 
 
